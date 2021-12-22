@@ -1,6 +1,6 @@
 # Aplicação com estados do Mario
 
-O código "brinca" com o jogo do Mario, mudando de estados de acordo com o estado anterior e com a transição.
+O código "brinca" com o jogo do Mario, mudando de estados de acordo com o estado anterior e com a transição. Por exemplo, se o Mario pegar uma flor de fogo, ele pode crescer, se estiver pequeno, ou ficar com a habilidade de soltar bolas de fogo, se estiver grande.
 
 A seguir o diagrama de classes para melhor entendimento do uso do padrão.
 
